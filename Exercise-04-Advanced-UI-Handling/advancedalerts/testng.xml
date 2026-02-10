@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Advanced Alerts Suite">
+    <test name="Alert Tests">
+        <classes>
+            <class name="com.selenium.AdvancedAlertTest"/>
+        </classes>
+    </test>
+</suite>
